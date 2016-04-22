@@ -1,0 +1,4 @@
+insert into fence (name, type, north, south, east, west) values ('NORFOLK CITY SCHOOL DISTRICT (MADISON CAREER CENTER)','FRS Interests',  36.87916, 37.87916, -76.30373, -77.30373 );
+insert into fence (name, type, north, south, east, west) values ('BIG R BRIDGE', 'FRS Interests', 36.7363, 37.7363, -81.91354, -82.91354);
+insert into fence (name, type, north, south, east, west) values ('Shenandoah National Park', 'National Parks', 38.2928, 39.2928, 78.6796, 79.6796);
+insert into fence (name, type, north, south, east, west) values ('EXCELSIOR RAIL LINE', 'Cleanups', 44.90068, 45.90068, -93.56889, -94.56889);
